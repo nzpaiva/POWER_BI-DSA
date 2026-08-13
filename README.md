@@ -1,4 +1,4 @@
-#Microsoft Power BI para Business Intelligence e Data Science
+# Microsoft Power BI para Business Intelligence e Data Science
 
 Este repositório reúne os projetos e dashboards desenvolvidos ao longo do curso Microsoft Power BI para Business Intelligence e Data Science, oferecido pela Data Science Academy (DSA) e ministrado pelo professor Daniel Mendes.
 
