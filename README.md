@@ -1,11 +1,11 @@
-# Microsoft Power BI para Business Intelligence e Data Science
+# Microsoft Power BI for Business Intelligence and Data Science
 
-Este repositório reúne os projetos e dashboards desenvolvidos ao longo do curso Microsoft Power BI para Business Intelligence e Data Science, oferecido pela Data Science Academy (DSA) e ministrado pelo professor Daniel Mendes.
+This repository contains projects and dashboards developed throughout the Microsoft Power BI for Business Intelligence and Data Science course, offered by Data Science Academy (DSA) and taught by Professor Daniel Mendes.
 
-Os projetos serão adicionados e atualizados progressivamente conforme o avanço no curso, contemplando diferentes recursos e técnicas de análise e visualização de dados utilizando o Microsoft Power BI.
+The projects will be added and updated progressively as I advance through the course, covering different techniques and resources for data analysis and visualization using Microsoft Power BI.
 
-Curso: Microsoft Power BI para Business Intelligence e Data Science
-Instituição: Data Science Academy (DSA)
-Professor: Daniel Mendes
+Course: Microsoft Power BI for Business Intelligence and Data Science
+Institution: Data Science Academy (DSA)
+Instructor: Daniel Mendes
 
-O repositório será atualizado continuamente até a conclusão do curso.
+This repository will be continuously updated until the completion of the course.
